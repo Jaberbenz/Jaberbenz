@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi there, I'm Benzeggouta Jaber
 
-<!--
-**Jaberbenz/Jaberbenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Fullstack developer in training, passionate about clean code, product thinking, and building useful, user-focused applications.
 
-Here are some ideas to get you started:
+🚀 Currently working on:
+- ⚙️ Nilcloud – a DevOps SaaS for dynamic test environments (Next.js, CI/CD, microservices)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I enjoy:
+- Building modern frontends with React, Next.js, Vue
+- Working with Node.js, Express, and REST APIs
+- Learning about DevOps, microservices, and scalable architectures
+
+📚 Currently exploring:
+- NestJS, Docker, Kubernetes
+- API Gateway with Caddy, CI/CD workflows (GitLab), microservice architecture
+- Vue 3 + Composition API
+
+📫 Reach me at: benzeggoutajaber@gmail.com  
+🔗 [LinkedIn](www.linkedin.com/in/jaber-benzeggouta-6b846b294) 
+
+🎯 Looking for a 2-year apprenticeship starting Sept 2025 in web development (fullstack/frontend)
+
