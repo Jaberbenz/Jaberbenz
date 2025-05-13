@@ -16,7 +16,7 @@
 - Vue 3 + Composition API
 
 📫 Reach me at: benzeggoutajaber@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/jaber-benzeggouta-6b846b294) 
+🔗 [LinkedIn]([www.linkedin.com/in/jaber-benzeggouta-6b846b294](https://www.linkedin.com/in/jaber-benzeggouta-6b846b294/)) 
 
 🎯 Looking for a 2-year apprenticeship starting Sept 2025 in web development (fullstack/frontend)
 
